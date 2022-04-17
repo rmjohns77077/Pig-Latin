@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pig Latin", "Pig Latin\Pig Latin.csproj", "{EF067749-0283-4702-9A86-E29FD545119D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF067749-0283-4702-9A86-E29FD545119D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF067749-0283-4702-9A86-E29FD545119D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF067749-0283-4702-9A86-E29FD545119D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF067749-0283-4702-9A86-E29FD545119D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF1CA74E-C78A-4219-9A10-454014AD2CA7}
+	EndGlobalSection
+EndGlobal

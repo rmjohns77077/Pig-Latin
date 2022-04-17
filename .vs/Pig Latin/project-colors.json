@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef067749-0283-4702-9a86-e29fd545119d": {
+      "ProjectGuid": "ef067749-0283-4702-9a86-e29fd545119d",
+      "DisplayName": "Pig Latin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
